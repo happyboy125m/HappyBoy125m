@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/HappyBoy/readme-typing-svg">
+  <a href="https://github.com/HappyBoy125m/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=HappyBoy&font=Comic%20Sans%20MS&center=true&width=480&height=70&color=28f600&vCenter=true&pause=1000&size=40" />
 </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/HappyBoy/readme-typing-svg">
+  <a href="https://github.com/HappyBoy125m/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;%20DEVELOPER%20&font=Comic%20Sans%20MS&center=true&width=500&height=45&color=28f600&vCenter=true&pause=1000&size=28" /></a>
 </p>
 
@@ -28,13 +28,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ### 👨‍💻 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy&show_icons=true&theme=midnight-purple&border_radius=15&title_color=02ff00&icon_color=02ff00&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy125m&show_icons=true&theme=midnight-purple&border_radius=15&title_color=02ff00&icon_color=02ff00&bg_color=0d1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HappyBoy&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=39FF14&sideLabels=00FF00&dates=33FF33&hide_border=false&background=0d1117&border_radius=20)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyBoy&layout=compact&theme=ayu-mirage&card_width=320&border_radius=10&title_color=02ff00&text_color=02ff00&bg_color=0d1117)
 
-<a href="https://github.com/HappyBoy">
+<a href="https://github.com/HappyBoy125m">
   <img alt="Neon's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=HappyBoy&bg_color=1F222E&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
 </a>
 
