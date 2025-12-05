@@ -23,7 +23,7 @@
 [![Happy Instagram](https://img.shields.io/badge/Instagram-HappyBoy-pink?logo=instagram&logoColor=white)](https://www.instagram.com/Happy_Boy_125m)  
 [![HappyBoy Facebook](https://img.shields.io/badge/Facebook-HappyBoy-blue?logo=facebook&logoColor=white)](https:Instagram--pink.nandan.370)  
 [![HappyBoy YouTube Channel](https://img.shields.io/badge/YouTube-HappyBoy-red?logo=youtube&logoColor=white)](https://www.youtube.com/)  
-[![Discord](https://img.shields.io/badge/Discord-HappyBoy-5865F2?logo=discord&logoColor=white)](https://discord.com/users/)
+[![Discord](https://img.shields.io/badge/Discord-HappyBoy-5865F2?logo=discord&logoColor=white)](https://discord.com/users/happyboy_125m)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
