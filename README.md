@@ -41,7 +41,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ### 👀 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 𝑪𝒐𝒖𝒏𝒕𝒆𝒓
-<a href="https://github.com/MyselfNeon"><img alt="Loli Count" src="https://count.getloli.com/get/@MyselfNeon?theme=loli" /></a>
+<a href="https://github.com/HappyBoy125m"><img alt="Loli Count" src="https://count.getloli.com/get/@HappyBoy?theme=loli" /></a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
